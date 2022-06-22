@@ -1,1 +1,2 @@
-#!/bin/bash\n\echo $HOME
+#!/bin/bash\n\
+echo $HOME
